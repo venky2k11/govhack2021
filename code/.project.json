@@ -1,0 +1,16 @@
+{
+    "dataBinding": {
+        "/webapp/view/Login.view.xml": {
+            "entitySet": ""
+        }, 
+        "/webapp/view/Overview.view.xml": {
+            "entitySet": ""
+        }, 
+        "/webapp/view/Super.view.xml": {
+            "entitySet": ""
+        }, 
+        "/webapp/view/Psa.view.xml": {
+            "entitySet": ""
+        } 
+    }
+}
