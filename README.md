@@ -10,3 +10,5 @@ If prompted, please use  below login credentials:
 
 "username:" govhack21@gmail.com
 "password:" Team@1612
+
+The app is best viewed in a phone. 
