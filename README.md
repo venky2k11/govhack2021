@@ -12,3 +12,5 @@ If prompted, please use  below login credentials:
 "password:" Team@1612
 
 The app is best viewed in a phone. 
+
+Idea Pitch could be found at :  https://drive.google.com/file/d/1C7jfU1OVQH5xaRGaNU1S8kt8OwBZiRbY/view?usp=sharing
